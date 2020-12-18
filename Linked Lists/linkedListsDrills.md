@@ -13,3 +13,7 @@ Add Athena before Boomer using your insertBefore() function.
 Add Hotdog after Helo using the insertAfter() method.
 Using the insertAt() method insert Kat in the 3rd position of the list.
 Remove Tauhida from the list.
+
+
+3. Supplemental functions for a linked list
+Implement the following functions that operate on your linked list class. Note that these should be free functions instead of methods of the linked list class, so implement them outside the linked list class. Test each function using the list created in exercise 1.
