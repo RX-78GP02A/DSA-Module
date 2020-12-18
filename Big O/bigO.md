@@ -121,6 +121,7 @@ function efficientSearch(array, item) {
 }
 ```
 
+
 ## 9. Random element
 What is the Big O of the following algorithm? Explain your answer
 ```js
