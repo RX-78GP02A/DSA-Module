@@ -36,3 +36,10 @@
     What is the Big O of the following algorithm?
         - O(n)
         - linear loops through each item until
+
+
+### 6. Creating pairs
+
+    What is the Big O of the following algorithm?
+        - O(n^2)
+        - nested for loops
