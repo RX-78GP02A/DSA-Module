@@ -29,3 +29,10 @@
     What is the Big O of the following algorithm?
         - O(n)
         - loops through each item in the array
+
+
+### 5. Naive search
+
+    What is the Big O of the following algorithm?
+        - O(n)
+        - linear loops through each item until
