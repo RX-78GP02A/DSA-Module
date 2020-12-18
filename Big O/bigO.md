@@ -32,3 +32,15 @@ function areYouHere(arr1, arr2) {
     return false;
 }
 ```
+
+
+## 4. Doubler
+What is the Big O of the following algorithm? Explain your answer
+```js
+function doubleArrayValues(array) {
+    for (let i = 0; i < array.length; i++) {
+        array[i] *= 2;
+    }
+    return array;
+}
+```
