@@ -74,3 +74,10 @@
 
     What is the Big O of the following algorithm?
         - O(2^n - 1)
+
+
+### 12. Iterative version
+
+### 13. Recursive Big O
+
+### 14. Iterative Big O
