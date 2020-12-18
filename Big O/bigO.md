@@ -120,3 +120,12 @@ function efficientSearch(array, item) {
     return -1;
 }
 ```
+
+## 9. Random element
+What is the Big O of the following algorithm? Explain your answer
+```js
+function findRandomElement(arr) {
+    return arr[Math.floor(Math.random() * arr.length)];
+}
+```
+
