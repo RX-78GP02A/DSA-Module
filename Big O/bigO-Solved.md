@@ -15,3 +15,10 @@
     What is the Big O of the algorithm?
         - O(1)
         - runs a single operation on a single value 
+
+
+### 3. Are you here?
+
+    What is the Big O of the algorithm?
+        - O(n^2)
+        - nested arrays
