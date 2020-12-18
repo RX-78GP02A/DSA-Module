@@ -22,3 +22,10 @@
     What is the Big O of the algorithm?
         - O(n^2)
         - nested arrays
+
+
+### 4. Doubler
+
+    What is the Big O of the following algorithm?
+        - O(n)
+        - loops through each item in the array
