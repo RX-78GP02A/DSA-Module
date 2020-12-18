@@ -41,3 +41,15 @@ function main(){
   arr.pop();
 ```
 * What is the length, capacity, and address of your array? Explain the result of your program after adding the new lines of code.
+
+
+### 4. Understanding more about how arrays work
+* Print the 1st item in the array `arr`.
+
+* Empty the array and add just 1 item: `arr.push("tauhida");`
+
+* Print this 1 item that you just added. What is the result? Can you explain your result?
+
+* What is the purpose of the `_resize()` function in your Array class?
+
+**You can use JavaScript's built-in arrays to solve the following drills. After you write the algorithm, identify its time complexity and determine if it needs to be optimized. Start each problem by understanding the problem and coming up with some sample input and output. For your convenience, a few sample input and output are provided.**
