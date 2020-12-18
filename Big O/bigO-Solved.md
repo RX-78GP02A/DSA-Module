@@ -49,3 +49,10 @@
 
     What is the Big O of the following algorithm?
         - O(n)
+
+
+### 8. An efficient search
+
+    What is the Big O of the following algorithm?
+        - O(log n)
+        - data to search gets smaller after each iteration
