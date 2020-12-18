@@ -67,3 +67,7 @@ A common mistake users make when they type in an URL is to put spaces between wo
 * Input: `www.thinkful.com /tauh ida parv een`
 
 * Output: `www.thinkful.com%20/tauh%20ida%20parv%20een`
+
+
+### 6. Filtering an array
+Imagine you have an array of numbers. Write an algorithm to remove all numbers less than 5 from the array. **DO NOT use Array's built-in `.filter()` method here;** write the algorithm from scratch.
