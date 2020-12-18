@@ -56,3 +56,9 @@
     What is the Big O of the following algorithm?
         - O(log n)
         - data to search gets smaller after each iteration
+
+
+### 9. Random element
+
+    What is the Big O of the following algorithm?
+        - O(1) 
