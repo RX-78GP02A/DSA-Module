@@ -43,3 +43,9 @@
     What is the Big O of the following algorithm?
         - O(n^2)
         - nested for loops
+
+
+### 7. Compute the sequence
+
+    What is the Big O of the following algorithm?
+        - O(n)
