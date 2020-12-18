@@ -62,3 +62,15 @@
 
     What is the Big O of the following algorithm?
         - O(1) 
+
+
+### 10. What Am I?
+
+    What is the Big O of the following algorithm?
+        - O(n)
+
+
+### 11. Tower of Hanoi
+
+    What is the Big O of the following algorithm?
+        - O(2^n - 1)
