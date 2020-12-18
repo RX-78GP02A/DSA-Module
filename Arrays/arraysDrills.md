@@ -100,3 +100,24 @@ Given an array of numbers, write an algorithm that outputs an array where each i
 
 * Input:`[1, 3, 9, 4]`
 * Output:`[108, 36, 12, 27]`
+
+
+### 11. 2D array
+Write an algorithm which searches through a 2D array, and whenever it finds a 0 should set the entire row and column to 0.
+
+* Input:
+```js
+[[1,0,1,1,0],
+[0,1,1,1,0],
+[1,1,1,1,1],
+[1,0,1,1,1],
+[1,1,1,1,1]];
+```
+* Output:
+```js
+[[0,0,0,0,0],
+[0,0,0,0,0],
+[0,0,1,1,0],
+[0,0,0,0,0],
+[0,0,1,1,0]];
+```
