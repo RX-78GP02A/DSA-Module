@@ -63,3 +63,13 @@ Write an algorithm to find whether a linked list has a cycle (i.e., whether a no
 
 9. Doubly linked list
 Implement a doubly linked list. The primary functions of the doubly linked list would be insert (First, Last, Before, After, and At), remove, and find. Write a function mainDLL, and within it create the doubly linked list DLL and add the following items to it: Aquaria, Caprica, Gemenon, Picon, Sagittaron.
+
+
+Add Tauron to the list
+Remove Picon from the list
+
+
+
+10. Reverse a DLL
+Given the doubly linked list above, write a program that reverses the doubly linked list. How is this implementation different than reversing the singly linked list?
+
