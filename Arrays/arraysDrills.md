@@ -3,6 +3,7 @@ Walk through each step of implementing an array. Don't rush through this by copy
 
 **Be sure to export the memory module and then import it using require.**
 
+
 ### 2. Explore the push() method
 Using the Array class you just created above, add an item to the array. Use the following function:
 ```js
@@ -32,6 +33,7 @@ function main(){
 ```
 * What is the length, capacity and memory address of your array? Explain the result of your program after adding the new lines of code.
 
+
 ### 3. Exploring the pop() method
 * Add the following in the main function and then print the array:
 ```js
@@ -53,3 +55,15 @@ function main(){
 * What is the purpose of the `_resize()` function in your Array class?
 
 **You can use JavaScript's built-in arrays to solve the following drills. After you write the algorithm, identify its time complexity and determine if it needs to be optimized. Start each problem by understanding the problem and coming up with some sample input and output. For your convenience, a few sample input and output are provided.**
+
+
+### 5. URLify a string
+A common mistake users make when they type in an URL is to put spaces between words or letters. A solution that developers can use to solve this problem is to replace any spaces with a `%20`. Write a method that takes in a string and replaces all its empty spaces with a `%20`. Your algorithm can only make 1 pass through the string. Examples of input and output for this problem can be
+
+* Input: `tauhida parveen`
+
+* Output: `tauhida%20parveen`
+
+* Input: `www.thinkful.com /tauh ida parv een`
+
+* Output: `www.thinkful.com%20/tauh%20ida%20parv%20een`
