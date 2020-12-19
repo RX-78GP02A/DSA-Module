@@ -5,3 +5,7 @@ Draw the BST with the keys - E A S Y Q U E S T I O N
 
 2. Remove the root
 Show how the above trees would look like if you deleted the root of each tree. (Draw the trees, no coding needed here.)
+
+
+3. Create a BST class
+Walk through the binary search tree code in the curriculum and understand it well. Then write a BinarySearchTree class with its core functions (insert(), remove(), find()) from scratch.
