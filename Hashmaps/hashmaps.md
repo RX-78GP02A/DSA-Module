@@ -59,5 +59,4 @@ Write an algorithm to group a list of words into anagrams. For example, if the i
 
 7. Separate Chaining
 Write another hash map implementation as above, but use separate chaining as the collision resolution mechanism.
-
 Test your hash map with the same values from the lotr hash map.
