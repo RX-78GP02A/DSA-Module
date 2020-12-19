@@ -55,3 +55,9 @@ Write an algorithm to check whether any anagram of some string is a palindrome. 
 
 6. Anagram grouping
 Write an algorithm to group a list of words into anagrams. For example, if the input was ['east', 'cars', 'acre', 'arcs', 'teas', 'eats', 'race'], the output should be: [['east', 'teas', 'eats'], ['cars', 'arcs'], ['acre', 'race']].
+
+
+7. Separate Chaining
+Write another hash map implementation as above, but use separate chaining as the collision resolution mechanism.
+
+Test your hash map with the same values from the lotr hash map.
